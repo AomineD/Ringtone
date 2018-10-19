@@ -1,0 +1,6454 @@
+{
+  "project_info": {
+    "project_number": "116617963740",
+    "firebase_url": "https://radiossuiza.firebaseio.com",
+    "project_id": "radiossuiza",
+    "storage_bucket": "radiossuiza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:b957791f65d5ef4f",
+        "android_client_info": {
+          "package_name": "com.abcloungejazz.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:5390afda590dd7e1",
+        "android_client_info": {
+          "package_name": "com.beurfm.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:f320b9185192f8c1",
+        "android_client_info": {
+          "package_name": "com.bfmradio.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:5c796ec14ff6c94c",
+        "android_client_info": {
+          "package_name": "com.chantefrance.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:123989714489fd58",
+        "android_client_info": {
+          "package_name": "com.chantefrance60s.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:453e18e0c1e4f9eb",
+        "android_client_info": {
+          "package_name": "com.chantefrance70s.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:409dc762f049e484",
+        "android_client_info": {
+          "package_name": "com.chantefrance80s.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:ffbeae959b0a462e",
+        "android_client_info": {
+          "package_name": "com.cheriezen.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:85e2b95c948b5e1a",
+        "android_client_info": {
+          "package_name": "com.colvengames.downloadmp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:1bcf37cfa3ea3f28",
+        "android_client_info": {
+          "package_name": "com.colvengames.iphoneringtone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-tojfkcrene1npnqi0mggmkc6ofqkae61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.colvengames.iphoneringtone",
+            "certificate_hash": "c3ac7c1a74c74b48a95c8f40323c522bfbce4dd9"
+          }
+        },
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:95f130d18bdb37f4",
+        "android_client_info": {
+          "package_name": "com.colvengames.onlinemp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-3kl2el46k1ncmtk0dotqp33p31he8gtk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.colvengames.onlinemp3",
+            "certificate_hash": "c3ac7c1a74c74b48a95c8f40323c522bfbce4dd9"
+          }
+        },
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:64060d1d2b501eca",
+        "android_client_info": {
+          "package_name": "com.colvengames.themoviecave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:421bc34dca597544",
+        "android_client_info": {
+          "package_name": "com.contactfm.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:80b915fbf1a2d0cd",
+        "android_client_info": {
+          "package_name": "com.europe1direct.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:ab844b288bd4f943",
+        "android_client_info": {
+          "package_name": "com.fgchic.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:1c2e5218d96d250f",
+        "android_client_info": {
+          "package_name": "com.fgdeepdance.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:19af4f2c2eda2202",
+        "android_client_info": {
+          "package_name": "com.fgnonstop.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:9c54c6b4c933b9a3",
+        "android_client_info": {
+          "package_name": "com.filmex.filmarea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:7c47c43d6298d864",
+        "android_client_info": {
+          "package_name": "com.fipradio.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:85920866f7f97af6",
+        "android_client_info": {
+          "package_name": "com.francebleuile.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:fd071d6da2bce1d6",
+        "android_client_info": {
+          "package_name": "com.francebleuprovence.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:86fd081d78cdd989",
+        "android_client_info": {
+          "package_name": "com.franceinfodirect.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:bd53460c55e4a516",
+        "android_client_info": {
+          "package_name": "com.franceinterdirect.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:be1e3d8f10e65eda",
+        "android_client_info": {
+          "package_name": "com.francemaghreb2.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:bb9dc2b25e25d225",
+        "android_client_info": {
+          "package_name": "com.funradio.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:51c40ab9f3c1254e",
+        "android_client_info": {
+          "package_name": "com.generationsfm.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:087d052cc808ff64",
+        "android_client_info": {
+          "package_name": "com.generationsfunk.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:c4a216785dbb75b2",
+        "android_client_info": {
+          "package_name": "com.generationsrapfr.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:50770361a39cf759",
+        "android_client_info": {
+          "package_name": "com.generationsrapfrgold.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:725028ff403a205a",
+        "android_client_info": {
+          "package_name": "com.generationsrb.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:71e0a590e6ddad1a",
+        "android_client_info": {
+          "package_name": "com.generationsrbgold.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:04ead92a0b1e9527",
+        "android_client_info": {
+          "package_name": "com.hitwest.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:7ca352299c4ee7ec",
+        "android_client_info": {
+          "package_name": "com.hotmixradio80.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:30e14ab7021abed3",
+        "android_client_info": {
+          "package_name": "com.hotmixradio90s.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:a79991eac39a2af1",
+        "android_client_info": {
+          "package_name": "com.hotmixradiodance.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:e1ed01bc4c3c4e06",
+        "android_client_info": {
+          "package_name": "com.hotmixradiohiphop.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:53c6a6a736cf92b4",
+        "android_client_info": {
+          "package_name": "com.hotmixradiohits.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:0cafb5fe9b042435",
+        "android_client_info": {
+          "package_name": "com.hotmixradioloung.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:91ab62786505285f",
+        "android_client_info": {
+          "package_name": "com.jazzclassique.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:fd50156394ebadeb",
+        "android_client_info": {
+          "package_name": "com.jazzradio.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:940a589a7cc1dad7",
+        "android_client_info": {
+          "package_name": "com.jazzradioblues.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:da33ccc533d26e61",
+        "android_client_info": {
+          "package_name": "com.jazzradioclassicjazz.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:ed8b25bf0cc9a321",
+        "android_client_info": {
+          "package_name": "com.jazzradiocontemporaryjazz.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:749b1c1c629a11e3",
+        "android_client_info": {
+          "package_name": "com.jazzradiofunk.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:091927d2d2f4c17e",
+        "android_client_info": {
+          "package_name": "com.jazzradiojazzcinema.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:7d977c4cae488d2c",
+        "android_client_info": {
+          "package_name": "com.jazzradiolatinjazz.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:48158043008f0ed2",
+        "android_client_info": {
+          "package_name": "com.jazzradiolounge.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:c277673bafb3d392",
+        "android_client_info": {
+          "package_name": "com.jazzradiopianojazz.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:c9d13a8ae337af44",
+        "android_client_info": {
+          "package_name": "com.jazzradiosaxojazz.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:45bede10694cd2aa",
+        "android_client_info": {
+          "package_name": "com.jazzradiosoul.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:4a866d213b7887ad",
+        "android_client_info": {
+          "package_name": "com.lagrosseradioreggae.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:e6c8848f21d614bb",
+        "android_client_info": {
+          "package_name": "com.latinabachata.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:1b178c065a393520",
+        "android_client_info": {
+          "package_name": "com.latinasalsa.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:9d5b76fc7eec10aa",
+        "android_client_info": {
+          "package_name": "com.mfmradio.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:baf922a21de7d8ad",
+        "android_client_info": {
+          "package_name": "com.nostalgiechansonsfrancaises.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:bd712afcf7ab175c",
+        "android_client_info": {
+          "package_name": "com.nostalgiefunk.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:7d6096825fe1871a",
+        "android_client_info": {
+          "package_name": "com.nostalgiegeneration80.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:d0d5700f4b6ac280",
+        "android_client_info": {
+          "package_name": "com.nostalgielegendes.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:b663154ea4ff2d85",
+        "android_client_info": {
+          "package_name": "com.nrjlatino.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:5c6dfdee06ada73f",
+        "android_client_info": {
+          "package_name": "com.nrjmadeinfrance.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:5646b19d6a7f2217",
+        "android_client_info": {
+          "package_name": "com.nrjpoprnbdance.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:3ab480462eaa6474",
+        "android_client_info": {
+          "package_name": "com.nrjradio.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:766c21df2121347c",
+        "android_client_info": {
+          "package_name": "com.pulsradiotrance.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:c5599a4aaf200c77",
+        "android_client_info": {
+          "package_name": "com.radioalouette.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:a8917b17841dfb50",
+        "android_client_info": {
+          "package_name": "com.radiobest80s.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:f354ddd0eeeabfb8",
+        "android_client_info": {
+          "package_name": "com.radiocheriefm.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:ec31bdbf625c1d1e",
+        "android_client_info": {
+          "package_name": "com.radiochopin.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:860fc7fee5b8268e",
+        "android_client_info": {
+          "package_name": "com.radioclassique.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:7e06ce075ff95d6a",
+        "android_client_info": {
+          "package_name": "com.radioclubfg.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:d8f6cc849774e9fb",
+        "android_client_info": {
+          "package_name": "com.radiodeepunderground.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:3cde363264a35b4b",
+        "android_client_info": {
+          "package_name": "com.radiofg.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:ece85a999fcb8f63",
+        "android_client_info": {
+          "package_name": "com.radiofranceculture.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:4cc62242a5eda1c8",
+        "android_client_info": {
+          "package_name": "com.radiofrancemusique.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:9f752edbd1503361",
+        "android_client_info": {
+          "package_name": "com.radiojazzmanouche.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:a7131a989acec772",
+        "android_client_info": {
+          "package_name": "com.radiolatina.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:f104ae5e52d8eaa9",
+        "android_client_info": {
+          "package_name": "com.radiomeuh.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:e1f0a99e92200fa8",
+        "android_client_info": {
+          "package_name": "com.radiomontecarloaldoualiya.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:27dc9912e05009a9",
+        "android_client_info": {
+          "package_name": "com.radiomouv.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:92f8307a83c7e089",
+        "android_client_info": {
+          "package_name": "com.radiomozart.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:ef30da66f2134ef2",
+        "android_client_info": {
+          "package_name": "com.radionostalgie.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:c628e028c31ad31f",
+        "android_client_info": {
+          "package_name": "com.radionova.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:118a79e2c615bfc8",
+        "android_client_info": {
+          "package_name": "com.radionrjhits.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:2c9eb57a810c783a",
+        "android_client_info": {
+          "package_name": "com.radioorient.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:ccc6c317e3517f86",
+        "android_client_info": {
+          "package_name": "com.radioouifm.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:686f92ecb34817d1",
+        "android_client_info": {
+          "package_name": "com.radiorfiafrique.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:73720fb34f05e4d0",
+        "android_client_info": {
+          "package_name": "com.radiorfimonde.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:2b9fe96e5e1b815a",
+        "android_client_info": {
+          "package_name": "com.radiorireetchanson.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:4e1445d41ee9897a",
+        "android_client_info": {
+          "package_name": "com.radiormc.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:11d69a15b1057aba",
+        "android_client_info": {
+          "package_name": "com.radiortl2direct.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:182efee6de8640f3",
+        "android_client_info": {
+          "package_name": "com.radiortl2direct.frect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:f91a15d5888b0872",
+        "android_client_info": {
+          "package_name": "com.radiortldirect.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:30df57516ae4cae9",
+        "android_client_info": {
+          "package_name": "com.radiose.abcloungeradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:6a977b050ca99d2f",
+        "android_client_info": {
+          "package_name": "com.radiose.airloungeradioradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:3eb80ef079b82835",
+        "android_client_info": {
+          "package_name": "com.radiose.alfaelvisradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:0ccaca9a52e50a63",
+        "android_client_info": {
+          "package_name": "com.radiose.antennebayernradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:37591d8996dad075",
+        "android_client_info": {
+          "package_name": "com.radiose.argoviaclassicrockradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:ad13ee1025dc3f9b",
+        "android_client_info": {
+          "package_name": "com.radiose.argoviahitmixradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:66e57acb1f7ba3f2",
+        "android_client_info": {
+          "package_name": "com.radiose.banditmetalradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:f57ece6e41840e50",
+        "android_client_info": {
+          "package_name": "com.radiose.banditrock1048radiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:1c3d51d3a687d733",
+        "android_client_info": {
+          "package_name": "com.radiose.banditrockradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:9e5f9d82c4f064c5",
+        "android_client_info": {
+          "package_name": "com.radiose.bern1radiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:b6b34def583088b5",
+        "android_client_info": {
+          "package_name": "com.radiose.chevyradiose57"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:60f0de5bbd6b8487",
+        "android_client_info": {
+          "package_name": "com.radiose.countryrocksradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:89dccbc197b28db6",
+        "android_client_info": {
+          "package_name": "com.radiose.dagnysjukeboxradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:69ff89c245b9ee0a",
+        "android_client_info": {
+          "package_name": "com.radiose.dancewaveradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:3ae1c2a782068b8a",
+        "android_client_info": {
+          "package_name": "com.radiose.dansbandsdaxradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:e81d3c3eeb609510",
+        "android_client_info": {
+          "package_name": "com.radiose.dansbandskanalenradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:ff5491aa4265f60c",
+        "android_client_info": {
+          "package_name": "com.radiose.defjayradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:d847d92e1d951c5f",
+        "android_client_info": {
+          "package_name": "com.radiose.deutschlandfunkradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:a57b19b73afbb858",
+        "android_client_info": {
+          "package_name": "com.radiose.doowopexpressradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:11503b75037ddd6e",
+        "android_client_info": {
+          "package_name": "com.radiose.drs1radiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:59aa6f5746daa6ce",
+        "android_client_info": {
+          "package_name": "com.radiose.drs4newsradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:93628b29e707ba30",
+        "android_client_info": {
+          "package_name": "com.radiose.drsmusikwelleradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:094ae788d0c3da10",
+        "android_client_info": {
+          "package_name": "com.radiose.electroradioradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:dcb8fb6d3f558f23",
+        "android_client_info": {
+          "package_name": "com.radiose.energybaselradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:567af8061f66fb04",
+        "android_client_info": {
+          "package_name": "com.radiose.energybernradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:f3c3c05f4164d0ee",
+        "android_client_info": {
+          "package_name": "com.radiose.energylatinradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:08690e63a4c2a0e6",
+        "android_client_info": {
+          "package_name": "com.radiose.energyzuerichitalyradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:45a9dd3ed52978ba",
+        "android_client_info": {
+          "package_name": "com.radiose.energyzuerichradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:d41f5835668da80a",
+        "android_client_info": {
+          "package_name": "com.radiose.fardaradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:3909d01f32dc9c58",
+        "android_client_info": {
+          "package_name": "com.radiose.fluxfmmetalfmradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:57ccdd3bbadd748d",
+        "android_client_info": {
+          "package_name": "com.radiose.fm181countryradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:bb86b6433d54b5dd",
+        "android_client_info": {
+          "package_name": "com.radiose.fm1adorejazzradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:cb2d962d52033b71",
+        "android_client_info": {
+          "package_name": "com.radiose.fm1alternativerockxradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:93dfdb991c927146",
+        "android_client_info": {
+          "package_name": "com.radiose.fm1baroqueradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:0b8e22bac9c91b2f",
+        "android_client_info": {
+          "package_name": "com.radiose.fm1bompsytranceradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:07fc953e0f439c1a",
+        "android_client_info": {
+          "package_name": "com.radiose.fm1countryradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:4f683ab069745ece",
+        "android_client_info": {
+          "package_name": "com.radiose.fm1deephouseradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:6aa4eba755e54982",
+        "android_client_info": {
+          "package_name": "com.radiose.fm1reggaetraderadiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:a88bbfe899d7a326",
+        "android_client_info": {
+          "package_name": "com.radiose.fm1stgradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:24fe6af3b290da3a",
+        "android_client_info": {
+          "package_name": "com.radiose.fm1top40radiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:85d4095fb4ffc97f",
+        "android_client_info": {
+          "package_name": "com.radiose.fm1tranceradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:66b4204a8f71bac2",
+        "android_client_info": {
+          "package_name": "com.radiose.fmamsterdamtranceradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:bfb680ec16ff2d84",
+        "android_client_info": {
+          "package_name": "com.radiose.fmclassicrockradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:2b8e327dcfe890e1",
+        "android_client_info": {
+          "package_name": "com.radiose.goldfmseradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:c9e694880e0c55a8",
+        "android_client_info": {
+          "package_name": "com.radiose.guldkanalen60radiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:c272a1a05934945c",
+        "android_client_info": {
+          "package_name": "com.radiose.guldkanalen70radiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:d102b85b44c6bbad",
+        "android_client_info": {
+          "package_name": "com.radiose.guldkanalen80radiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:a4a759e595d71f12",
+        "android_client_info": {
+          "package_name": "com.radiose.guldkanalen90radiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:89bad24a291d4ad1",
+        "android_client_info": {
+          "package_name": "com.radiose.guldkanalenradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:b4de698044e01cfc",
+        "android_client_info": {
+          "package_name": "com.radiose.italopowerradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:25c7c1d13745545a",
+        "android_client_info": {
+          "package_name": "com.radiose.jarviradioradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:60f903dec24c6fd1",
+        "android_client_info": {
+          "package_name": "com.radiose.loungeradioradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:9e61782c13f4d9f2",
+        "android_client_info": {
+          "package_name": "com.radiose.lugnafavoriterradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:3d07ed84ce3c9ddc",
+        "android_client_info": {
+          "package_name": "com.radiose.mixmegapool107radiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:255e729fa3dce8d0",
+        "android_client_info": {
+          "package_name": "com.radiose.mozartradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:0ed557afc3605540",
+        "android_client_info": {
+          "package_name": "com.radiose.my105originalradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:708daa26b217646c",
+        "android_client_info": {
+          "package_name": "com.radiose.narodniradioradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:98bf7ce68a8fe2e9",
+        "android_client_info": {
+          "package_name": "com.radiose.nrjswedenradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:6e1f37412e8a2546",
+        "android_client_info": {
+          "package_name": "com.radiose.powerhitzradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:676513ea77475c64",
+        "android_client_info": {
+          "package_name": "com.radiose.radio1chradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:82944cd219197707",
+        "android_client_info": {
+          "package_name": "com.radiose.radio24radiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:6ba0e9bd57bf38ac",
+        "android_client_info": {
+          "package_name": "com.radiose.radio32goldiesradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:44486516bc74fad4",
+        "android_client_info": {
+          "package_name": "com.radiose.radio32radiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:2d7c8993f5386b94",
+        "android_client_info": {
+          "package_name": "com.radiose.radio88partilleradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:83a7d085b34ff8bb",
+        "android_client_info": {
+          "package_name": "com.radiose.radioactive1039radiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:45c2d98090992f67",
+        "android_client_info": {
+          "package_name": "com.radiose.radioargoviaradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:4545dd6309330a9e",
+        "android_client_info": {
+          "package_name": "com.radiose.radiobasiliskradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:d4d5e295bb8ae20a",
+        "android_client_info": {
+          "package_name": "com.radiose.radiobastad961radiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:cd9f97a40c4ae5c9",
+        "android_client_info": {
+          "package_name": "com.radiose.radiocentralchradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:f34191c81e75c6c9",
+        "android_client_info": {
+          "package_name": "com.radiose.radioevivaradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:0579ae81c0ac4aa1",
+        "android_client_info": {
+          "package_name": "com.radiose.radiojavanradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:53bd3041f77a248a",
+        "android_client_info": {
+          "package_name": "com.radiose.radiomelodyradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:96c5d00275ebac10",
+        "android_client_info": {
+          "package_name": "com.radiose.radiopilatusradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:5632c41b0c209313",
+        "android_client_info": {
+          "package_name": "com.radiose.radiopookiradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:9435930b0ae83b2c",
+        "android_client_info": {
+          "package_name": "com.radiose.radiotellradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:59a949a3cdbeea2b",
+        "android_client_info": {
+          "package_name": "com.radiose.rixfmradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:f68b69e3370dbe3c",
+        "android_client_info": {
+          "package_name": "com.radiose.rockabillyradioradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:78700532789f83bd",
+        "android_client_info": {
+          "package_name": "com.radiose.rockklassikerradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:7ecfd25fc1ffa4ab",
+        "android_client_info": {
+          "package_name": "com.radiose.siljanradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:eb592dadabc9b657",
+        "android_client_info": {
+          "package_name": "com.radiose.srf3radiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:b8ba0eab0351c1ef",
+        "android_client_info": {
+          "package_name": "com.radiose.starfmseradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:21d744c42f5b3457",
+        "android_client_info": {
+          "package_name": "com.radiose.sverigesp1radiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:33ae7c69ef4e713a",
+        "android_client_info": {
+          "package_name": "com.radiose.sverigesp2klassisktradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:c7bbf3e00b7fb620",
+        "android_client_info": {
+          "package_name": "com.radiose.sverigesp3radiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:97611ddbde1e3a87",
+        "android_client_info": {
+          "package_name": "com.radiose.sverigesp3starradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:dece901ff3766fb3",
+        "android_client_info": {
+          "package_name": "com.radiose.sverigesp4goteborgradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:06680490c8ac191e",
+        "android_client_info": {
+          "package_name": "com.radiose.sverigesp4hallandradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:cf37e11b8776ac70",
+        "android_client_info": {
+          "package_name": "com.radiose.sverigesp4plusradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:705097b5d11d07c7",
+        "android_client_info": {
+          "package_name": "com.radiose.sverigesp4sjuharadradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:57bf1033b3c0e697",
+        "android_client_info": {
+          "package_name": "com.radiose.sverigesp4stockholmradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:d267c250b0649bce",
+        "android_client_info": {
+          "package_name": "com.radiose.swissclassicradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:7e666b6b85b3335e",
+        "android_client_info": {
+          "package_name": "com.radiose.swissgrooveradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:510970a252b34d04",
+        "android_client_info": {
+          "package_name": "com.radiose.swissjazzradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:6594cf06a89cbdd0",
+        "android_client_info": {
+          "package_name": "com.radiose.swisspopradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:592c70d03eae2ce4",
+        "android_client_info": {
+          "package_name": "com.radiose.traxxtechminimalradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:7c420060da06ca22",
+        "android_client_info": {
+          "package_name": "com.radiose.trebyradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:f694db41d3cb5b06",
+        "android_client_info": {
+          "package_name": "com.radiose.vintageradioradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:59b07773bdfe4461",
+        "android_client_info": {
+          "package_name": "com.radiose.vinylgodisradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:7ac80fb9546b36d6",
+        "android_client_info": {
+          "package_name": "com.radiose.xxxrockradiose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:81d627c372b84aa5",
+        "android_client_info": {
+          "package_name": "com.radiose.zueriseeradiode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:73e61047c88580c4",
+        "android_client_info": {
+          "package_name": "com.radioskyrock.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:32f2cfd3f615b0fc",
+        "android_client_info": {
+          "package_name": "com.radioswissclassic.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:d317c3a6341ca6a5",
+        "android_client_info": {
+          "package_name": "com.radiotopmusic.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:41838d420517c869",
+        "android_client_info": {
+          "package_name": "com.radiotsfjazz.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:ae22fc0dc103d4d1",
+        "android_client_info": {
+          "package_name": "com.radiovibration.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:32f09c0b7b6bdf8a",
+        "android_client_info": {
+          "package_name": "com.radiovoltage.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:33e228e3eeb69a06",
+        "android_client_info": {
+          "package_name": "com.rfmradio.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:1f0a3dd181d7b42d",
+        "android_client_info": {
+          "package_name": "com.rireetchansonscanulars.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:a08aff68cd442c25",
+        "android_client_info": {
+          "package_name": "com.rireetchansonsnouvellegeneration.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:dd6db3eec0524700",
+        "android_client_info": {
+          "package_name": "com.rireetchansonssketches.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:d0300690691a2a5d",
+        "android_client_info": {
+          "package_name": "com.sainttropezdeephouse.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:b99987962228bb66",
+        "android_client_info": {
+          "package_name": "com.sudradio.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:d412f945c11e8dd5",
+        "android_client_info": {
+          "package_name": "com.tropiquesfm.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:848ace3d1622f889",
+        "android_client_info": {
+          "package_name": "com.virginradio.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:9d145fee62170cf7",
+        "android_client_info": {
+          "package_name": "com.virginradiohits.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116617963740:android:d0e27c29269d3e91",
+        "android_client_info": {
+          "package_name": "com.virginradiorock.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116617963740-6lbt1se8oqkqabj3pv7k51r7jefdvecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy3bM11Lvr6H7GGjPSRrnlW1WYxKWOZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

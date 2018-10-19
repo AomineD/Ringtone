@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layoutDirection="ltr"
+    android:id="@+id/relative_layout_user_activity"
+    tools:context="com.colvengames.downloadmp3.ui.UserActivity">
+
+    <RelativeLayout
+        android:visibility="visible"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <RelativeLayout
+            android:elevation="1dp"
+            android:background="@color/colorPrimary"
+            android:layout_width="match_parent"
+            android:layout_height="185dp"
+            android:id="@+id/cardView">
+            <RelativeLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="185dp">
+                <pl.bclogic.pulsator4droid.library.PulsatorLayout
+                    android:layout_centerHorizontal="true"
+                    android:gravity="center"
+                    android:id="@+id/pulsator"
+                    android:layout_width="140dp"
+                    android:layout_height="140dp"
+                    app:pulse_count="4"
+                    app:pulse_duration="6000"
+                    app:pulse_repeat="0"
+                    app:pulse_color="@color/white"
+                    app:pulse_startFromScratch="false"
+                    app:pulse_interpolator="Linear">
+                    <de.hdodenhof.circleimageview.CircleImageView
+                        android:id="@+id/image_view_profile_user_activity"
+                        android:layout_centerInParent="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:src="@drawable/profile"
+                        app:civ_border_width="0dp"
+                        app:civ_border_color="#FF000000"/>
+                    <ImageView
+                        android:id="@+id/image_view_ringtone_activity_trusted"
+                        android:layout_marginLeft="87dp"
+                        android:layout_marginTop="85dp"
+                        app:srcCompat="@drawable/ic_trusted"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp" />
+                </pl.bclogic.pulsator4droid.library.PulsatorLayout>
+
+                <TextView
+                    android:layout_centerHorizontal="true"
+                    android:id="@+id/text_view_profile_user_activity"
+                    android:layout_marginTop="120dp"
+                    android:textSize="20dp"
+                    android:textStyle="bold"
+                    android:textColor="@color/white"
+                    android:text="--"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <android.support.v4.widget.SwipeRefreshLayout
+            android:id="@+id/swipe_refreshl_user_activity"
+            android:layout_width="match_parent"
+            android:layout_height="356dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="0dp"
+            android:elevation="1dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/linear_layout_page_error"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:visibility="gone">
+
+                    <include layout="@layout/error_page" />
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/image_view_empty"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:visibility="gone"
+                    app:srcCompat="@drawable/bg_empty_me" />
+
+                <android.support.v7.widget.RecyclerView
+                    android:id="@+id/recycle_view_user_activity"
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_centerInParent="true"
+                    android:visibility="visible" />
+            </LinearLayout>
+        </android.support.v4.widget.SwipeRefreshLayout>
+        <android.support.v7.widget.CardView
+            app:cardCornerRadius="7dp"
+            app:cardElevation="2dp"
+            android:elevation="2dp"
+            app:cardMaxElevation="1dp"
+            android:layout_marginTop="148dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="60dp">
+            <LinearLayout
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:weightSum="3"
+                android:layout_width="match_parent"
+                android:layout_height="60dp">
+                <LinearLayout
+                    android:id="@+id/linear_layout_followers"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="60dp">
+                    <TextView
+                        android:id="@+id/text_view_followers_count_user_activity"
+                        android:textColor="@color/primary_text"
+                        android:textSize="20dp"
+                        android:textStyle="bold"
+                        android:gravity="left"
+                        android:text="-"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:textColor="@color/primary_text_light"
+                        android:textSize="14dp"
+                        android:textStyle="bold"
+                        android:gravity="left"
+                        android:text="Followers"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+                <LinearLayout
+                    android:id="@+id/linear_layout_following"
+                    android:background="@drawable/border_left_me"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="60dp">
+                    <TextView
+                        android:id="@+id/text_view_following_count_activity_user"
+                        android:textColor="@color/primary_text"
+                        android:textSize="20dp"
+                        android:textStyle="bold"
+                        android:gravity="center"
+                        android:text="-"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:textColor="@color/primary_text_light"
+                        android:textSize="14dp"
+                        android:textStyle="bold"
+                        android:gravity="center"
+                        android:text="Following"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+                <LinearLayout
+                    android:background="@drawable/border_left_me"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="60dp">
+                    <TextView
+                        android:id="@+id/text_view_ringtone_count_activity_user"
+                        android:textColor="@color/primary_text"
+                        android:textSize="20dp"
+                        android:textStyle="bold"
+                        android:gravity="right"
+                        android:text="-"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:textColor="@color/primary_text_light"
+                        android:textSize="14dp"
+                        android:textStyle="bold"
+                        android:gravity="right"
+                        android:text="Ringtones"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+        <RelativeLayout
+            android:visibility="gone"
+            android:id="@+id/relative_layout_load_more"
+            android:gravity="center"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/loading_bg"
+            android:layout_marginBottom="60dp"
+            android:layout_width="40dp"
+            android:layout_height="40dp">
+            <com.leo.simplearcloader.SimpleArcLoader
+                android:layout_alignParentBottom="true"
+                android:visibility="visible"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                app:arc_colors="@array/colors_load"
+                app:arc_style="simple_arc"
+                app:arc_speed="medium"
+                app:arc_margin="3dp">
+
+            </com.leo.simplearcloader.SimpleArcLoader>
+        </RelativeLayout>
+    </RelativeLayout>
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        app:elevation="0dp"
+        android:theme="@style/AppTheme.AppBarOverlay"
+        android:id="@+id/appBarLayout">
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+    </android.support.design.widget.AppBarLayout>
+    <Button
+        android:id="@+id/button_follow_user_activity"
+        android:textSize="10dp"
+        android:layout_marginTop="45dp"
+        android:theme="@style/Button_login"
+        android:textColor="@color/colorPrimaryDark"
+        android:text="@string/loading"
+        android:layout_marginRight="5dp"
+        android:layout_alignParentRight="true"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp" />
+</RelativeLayout>

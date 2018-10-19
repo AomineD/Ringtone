@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="230dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+        <android.support.v7.widget.CardView
+            android:id="@+id/card_view_item_slide_one"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="3dp"
+            app:cardCornerRadius="5dp"
+            app:cardElevation="1dp"
+            app:cardBackgroundColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+                <ImageView
+                    android:id="@+id/image_view_item_slide_one"
+                    android:scaleType="centerCrop"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+                <TextView
+                    android:id="@+id/text_view_item_slide_one_title"
+                    android:minHeight="100dp"
+                    android:layout_gravity="bottom"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:paddingTop="20dp"
+                    android:paddingBottom="30dp"
+                    android:textStyle="bold"
+                    android:textSize="20dp"
+                    android:gravity="left|bottom"
+                    android:textColor="@color/light_white"
+                    android:text="Wallpapaer text title"
+                    android:background="@drawable/gradient_title_slide"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+                <LinearLayout
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:layout_gravity="bottom"
+                    android:background="@color/white"
+                    android:layout_width="60dp"
+                    android:layout_height="5px"/>
+        </android.support.v7.widget.CardView>
+</RelativeLayout>

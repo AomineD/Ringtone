@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="url_get">http://besosdeamor.info/mp3api/connect.php</string>
+    
+    <string name="url_post">http://besosdeamor.info/mp3api/post_user.php</string>
+    
+    <string name="url_active">http://besosdeamor.info/mp3api/activ_f.php</string>
+
+    <string name="tagMain">royalty</string>
+    
+</resources>

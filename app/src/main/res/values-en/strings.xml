@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Royalty music</string>
+    <string name="panel_url">ringtone.ristana.com</string>
+    <string name="policy_privacy_url">http://ristana.com/privacy_policy.html</string>
+
+    <string name="share_url">Download the best Royalty Music in this app fantastic! </string>
+
+
+    <string name="Categoryname">Iphone</string>
+
+    <string name="publisher_id">pub-3447169368463700</string>
+
+    <string name="facebook_app_id">565450217247077</string>
+    <string name="fb_login_protocol_scheme">fb1030157120466186</string>
+
+    <string name="ad_unit_id_banner">ca-app-pub-3447169368463700/2183554335</string>
+    <string name="ad_unit_id_interstitial">ca-app-pub-3447169368463700/4426574296</string>
+    <string name="AD_MOB_TIME">15</string>
+    <!-- enable / disbale banner -->
+    <string name="AD_MOB_ENABLED_BANNER">true</string>
+    <!-- enable / disbale interstitial -->
+    <string name="AD_MOB_ENABLED_INTERSTITAL">true</string>
+
+
+    <!-- FACEBOOK ADS -->
+    <string name="FACEBOOK_ADS_NATIVE_BANNER_PLACEMENT_ID">2371715799520164_2371717422853335</string>
+    <string name="FACEBOOK_ADS_NATIVE_PLACEMENT_ID">2371715799520164_2371716306186780</string>
+    <!-- enable / disbale NATIVE BANNER -->
+
+    <string name="FACEBOOK_ADS_ENABLED_BANNER">true</string>
+    <!-- enable / disbale NATIVE ADS BETWEEN ITEM -->
+    <string name="FACEBOOK_ADS_ENABLED_NATIVE">true</string>
+    <!-- NUMBER OF RINTONES BETWEEN ADS -->
+    <string name="FACEBOOK_ADS_ITEM_BETWWEN_ADS">4</string>
+
+
+    <string name="DownloadFolder">/Download/Music/</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_favorites">Favorites</string>
+    <string name="text_schedules">Schedules</string>
+    <string name="text_music">Music</string>
+    <string name="title_activity_nav">NavActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_server">Sorry something went wrong</string>
+    <string name="try_again">Try again</string>
+
+    <string name="download">Download</string>
+    <string name="set">Set</string>
+    <string name="favorite">Favorite</string>
+    <string name="comments">Comments</string>
+    <string name="write_comment">Write a comment</string>
+    <string name="operation_progress">Operation in progress</string>
+    <string name="comment_hidden">This comment has been hidden</string>
+    <string name="retry">RETRY</string>
+    <string name="no_connexion">Connection problem</string>
+    <string name="now_time">Now</string>
+    <string name="ringtone_set_success">Music has been set successfully </string>
+    <string name="ringtone_notification_success">Music has been set successfully as Notification</string>
+    <string name="ringtone_alarm_success">Music has been set successfully as Alarm</string>
+    <string name="ringtone_contact_success">Music has been set successfully for this contact</string>
+    <string name="ringtone_download_success">Music has been successfully downloaded</string>
+    <string name="ringtone_download_error">Download failed -  network error</string>
+    <string name="progress_login">Work in progress</string>
+    <string name="message_sended">Message has been sent successfully</string>
+    <string name="title_notification">Enable push notifiction</string>
+    <string name="label_notification">Receive push notification</string>
+    <string name="clear_cache">Clear Cache</string>
+    <string name="label_cache">Clear locally cached images. Currently : </string>
+    <string name="update_now">Update Now</string>
+    <string name="contact_us">Contact us</string>
+    <string name="policy_privacy">Policy privacy</string>
+    <string name="version_label">Current version</string>
+    <string name="hint_message">Your message</string>
+    <string name="send_support">Send Message</string>
+    <string name="image_upload_error">Please select a Music</string>
+    <string name="color_tags_upload_error">Please select tags</string>
+    <string name="upload_ringtone">Upload Music</string>
+    <string name="ringtone_upload_success">Your Music has been successfully uploaded</string>
+    <string name="edit_text_upload_title_error">Title very short , please a write correct title</string>
+    <string name="welcome_login_text">Login to comment , upload your Music ....</string>
+    <string name="account_disabled">Sorry your account has been locked</string>
+    <string name="login_gg_text">Login with google</string>
+    <string name="message_logout">You are successfully logout</string>
+
+    <string name="hint_email">E-mail</string>
+    <string name="hint_name">Full name</string>
+    <string name="error_mail_valide">Please enter a valid E-mail</string>
+    <string name="error_short_value">Your field is too short</string>
+    <string name="exit">Exit</string>
+    <string name="please_login">Please sign in !</string>
+    <string name="action_rate">Rate this App</string>
+    <string name="loading">Laoading</string>
+    <string name="description_subsribte">With our pack. You can enjoy an ad-free experience . and focus on the  essential!</string>
+    <string name="title_upload">Upload Yours</string>
+    <string name="set_alarm">SET ALARM</string>
+    <string name="set_notification">SET NOTIFICATION</string>
+    <string name="set_contact_ringtone">SET CONTACT Music</string>
+    <string name="title_ringtone">SET MUSIC</string>
+    <string name="categories">Categories : </string>
+    <string name="tags">Tags : </string>
+    <string name="description">Description :</string>
+    <string name="categories_list">Categories list</string>
+    <string name="popular_searches">Popular Searches</string>
+    <string name="download_ringtone_from">Download it from :</string>
+    <string name="title_slide_1">Welcome to Music App</string>
+    <string name="description_slide_1">Thank you for downloading Music App we hope you like it , enjoy .</string>
+    <string name="title_slide_2">We are using Tags</string>
+    <string name="description_slide_2">Select your favorite themes to find your the best Royalty Musics</string>
+    <string name="title_slide_3">Be an Author</string>
+    <string name="description_slide_3">Sign in and be one of our community and share your best Royalty Musics with others</string>
+    <string name="title_slide_4">Download Royalty Musics</string>
+
+    <string name="description_slide_4">Download Music and keep it on your phone , share and use it when you want</string>
+    <string name="title_slide_5">Favorites</string>
+    <string name="description_slide_5">Add your favorites Royalty Musics to your favorite list and use it later</string>
+    <string name="title_slide_6">Rate Royalty Musics</string>
+    <string name="description_slide_6">Browse best Royalty Musics collection  and give your rating</string>
+    <string name="title_slide_7">EASY TO SHARE</string>
+    <string name="description_slide_7">Download and share any Music from the application to any social network</string>
+    <string name="title_slide_8">Remove ads</string>
+    <string name="description_slide_8">Go PRO and enjoy with apps without any ads ,with a small price .</string>
+    <string name="report_ringtone">Report this Music</string>
+    <string name="skip">Skip</string>
+    <string name="rate_our_app">Rate Our App</string>
+    <string name="rate_our_app_message">If you love our application ,please take a moment to rate it .</string>
+    <string name="rate_now">Rate Now</string>
+    <string name="later">Later</string>
+    <string name="no_again">Don’t ask again</string>
+    <string name="cancel">Canel</string>
+    <string name="choose_your_ringtone">Choose Your Music</string>
+    <string name="dialog_text_no_ads_title">Turn Off ads</string>
+    <string name="dialog_text_no_premium_wallpapers_title">Premium Content</string>
+    <string name="dialog_text_no_premium_wallpapers_description">Get unlimited Royalty Musics</string>
+    <string name="dialog_text_no_ads_description">Use App more free without ads</string>
+
+    <string name="send_info">Send Music to</string>
+
+
+
+    <string name="share_this_app">Share this app</string>
+    <string name="exitb">Exit</string>
+    <string name="we_need_your_permission">We need your permission</string>
+    <string name="please_allow_permission_to_continue_use_the_application_perfectly">Please allow permission to continue use the application perfectly</string>
+    <string name="allow_permission">ALLOW PERMISSION</string>
+
+    <string name="lastest">Lastest</string>
+    <string name="categories_title">Categories</string>
+    <string name="favorites_title">Favorites</string>
+
+    <string name="lastest_home">Latest</string>
+    <string name="categories_home">Categories</string>
+    <string name="favorites_home">Favorites</string>
+
+    <string name="name_admin">ADMIN</string>
+
+
+
+</resources>

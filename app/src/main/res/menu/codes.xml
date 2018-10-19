@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_go_pro"
+        android:icon="@drawable/ic_pro"
+        android:title="Go Pro" />
+
+    <item
+        android:id="@+id/action_pro"
+        android:icon="@drawable/ic_pro"
+        android:orderInCategory="100"
+        android:title="@string/abc_search_hint"
+        app:showAsAction="always" />
+</menu>

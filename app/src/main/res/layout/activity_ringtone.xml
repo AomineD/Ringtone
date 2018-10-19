@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/white"
+    android:id="@+id/activity_guide"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="false"
+    android:layoutDirection="ltr"
+
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    tools:context=".ui.RingtoneActivity">
+    <android.support.v4.view.ViewPager
+        android:elevation="0dp"
+        android:id="@+id/viewPagerbackground"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center" />
+    <RelativeLayout
+        android:paddingTop="20dp"
+        android:elevation="10dp"
+        android:background="@drawable/bg_ringtone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/linear_layout_ads">
+        <android.support.design.widget.AppBarLayout
+            android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay"
+        android:background="@color/transparent"
+        app:elevation="0dp"
+        android:id="@+id/appBarLayout">
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            app:layout_scrollFlags="scroll|enterAlways"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/transparent"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+    </android.support.design.widget.AppBarLayout>
+        <RelativeLayout
+            android:id="@+id/relative_layout_user"
+            android:layout_width="match_parent"
+            android:layout_height="100dp">
+            <LinearLayout
+                android:paddingRight="10dp"
+                android:gravity="right|center_vertical"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_toLeftOf="@+id/relative_layout_user_top"
+                android:layout_toStartOf="@+id/relative_layout_user_top">
+                <LinearLayout
+                    android:gravity="center"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="24dp">
+                    <TextView
+                        android:id="@+id/text_view_activity_ringtone_downloads"
+                        android:layout_marginRight="3dp"
+                        android:textStyle="bold"
+                        android:textAlignment="center"
+                        android:gravity="center"
+                        android:textSize="14dp"
+                        android:textColor="@color/white"
+                        android:text="-"
+                        android:layout_width="wrap_content"
+                        android:layout_height="20dp" />
+                    <ImageView
+
+                        android:layout_margin="3dp"
+                        android:tint="@color/white"
+                        app:srcCompat="@drawable/ic_file_download_black_24dp"
+                        android:layout_width="16dp"
+                        android:layout_height="16dp" />
+                </LinearLayout>
+                <LinearLayout
+                    android:gravity="center"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="24dp">
+                    <TextView
+                        android:id="@+id/text_view_activity_ringtone_created"
+                        android:layout_marginRight="3dp"
+                        android:textStyle="bold"
+                        android:textAlignment="center"
+                        android:gravity="center"
+                        android:textSize="14dp"
+                        android:textColor="@color/white"
+                        android:text="-"
+                        android:layout_width="wrap_content"
+                        android:layout_height="20dp" />
+                    <ImageView
+                        android:layout_margin="3dp"
+                        android:tint="@color/white"
+                        app:srcCompat="@drawable/ic_access_time"
+                        android:layout_width="16dp"
+                        android:layout_height="16dp"  />
+                </LinearLayout>
+
+
+            </LinearLayout>
+            <RelativeLayout
+                android:id="@+id/relative_layout_user_top"
+                android:layout_centerHorizontal="true"
+                android:layout_centerInParent="true"
+                android:layout_width="60dp"
+                android:layout_height="60dp">
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerInParent="true"
+                    android:padding="3dp"
+                    android:src="@drawable/profile"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:id="@+id/circle_image_view_activity_ringtone_user" />
+                <ImageView
+                    android:id="@+id/image_view_ringtone_activity_trusted"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginTop="35dp"
+                    app:srcCompat="@drawable/ic_trusted"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp" />
+            </RelativeLayout>
+            <LinearLayout
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_toEndOf="@+id/relative_layout_user_top"
+                android:layout_toRightOf="@+id/relative_layout_user_top"
+                >
+
+                <TextView
+                    android:id="@+id/text_view_activity_ringtone_user_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:maxWidth="200dp"
+                    android:text="-"
+                    android:textColor="@color/c9"
+                    android:textSize="18dp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </RelativeLayout>
+
+
+    <android.support.v4.view.ViewPager
+        android:elevation="5dp"
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:paddingTop="0dp"
+        android:paddingBottom="20dp"
+        android:layout_gravity="center"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/linearLayout_controllers"
+        android:layout_below="@+id/relative_layout_user"
+
+        />
+        <LinearLayout
+            android:elevation="6dp"
+            android:visibility="gone"
+            android:layout_marginLeft="32dp"
+            android:layout_marginRight="33dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginBottom="22dp"
+            android:layout_below="@+id/relative_layout_user"
+            android:layout_above="@+id/linearLayout_controllers"
+            android:id="@+id/native_ad_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/bg_facebook_ads"
+            android:orientation="vertical" />
+        <ImageView
+            android:alpha="0.6"
+            android:id="@+id/image_view_activity_ringtone_details"
+            style="?android:borderlessButtonStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:focusable="true"
+            android:clickable="true"
+            android:elevation="7dp"
+            android:padding="8dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="10dp"
+            android:layout_alignParentRight="true"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/relative_layout_user"
+            app:srcCompat="@drawable/ic_info" />
+        <LinearLayout
+        android:layout_alignParentBottom="true"
+        android:weightSum="3"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal"
+        android:id="@+id/linearLayout_controllers">
+        <RelativeLayout
+
+            android:gravity="center"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="80dp">
+            <com.like.LikeButton
+                android:id="@+id/like_button_share_ringtone_activity"
+                android:layout_weight="1"
+                app:icon_type="heart"
+                app:icon_size="24dp"
+                app:unlike_drawable="@drawable/ic_share"
+                app:like_drawable="@drawable/ic_share"
+                android:layout_width="80dp"
+                android:layout_height="80dp"/>
+        </RelativeLayout>
+        <RelativeLayout
+            android:gravity="center_horizontal"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="80dp">
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:gravity="center"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="80dp">
+            <com.like.LikeButton
+                android:id="@+id/like_button_fav_ringtone_activity"
+                android:layout_weight="1"
+                app:icon_type="heart"
+                app:icon_size="24dp"
+                app:unlike_drawable="@drawable/ic_favorite"
+                app:like_drawable="@drawable/ic_favorite_done"
+                android:layout_width="80dp"
+                android:layout_height="80dp"/>
+        </RelativeLayout>
+    </LinearLayout>
+        <RelativeLayout
+            android:elevation="7dp"
+            android:visibility="gone"
+            android:id="@+id/relative_layout_cancel"
+            android:clickable="true"
+            android:focusable="true"
+            android:background="#52000000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </RelativeLayout>
+        <com.github.clans.fab.FloatingActionButton
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/viewpager"
+            android:id="@+id/floating_action_button_ringtone_activity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|right"
+            android:layout_marginBottom="20dp"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/ic_set"
+            app:fab_colorNormal="@color/white"
+            app:fab_colorPressed="@color/white"
+            app:fab_colorRipple="@color/white"
+            app:fab_showShadow="false"
+            app:fab_shadowRadius="0dp"
+            app:fab_size="normal"
+            app:fab_showAnimation="@anim/fab_scale_up"
+            app:fab_hideAnimation="@anim/fab_scale_down"
+            app:fab_label=""
+            ads:fab_progress="0"
+            android:elevation="8dp"
+            ads:fab_progress_backgroundColor="@color/transparent"
+            ads:fab_progress_color="@color/colorAccent"
+            ads:fab_progress_max="100"
+            />
+
+        <com.github.clans.fab.FloatingActionMenu
+            android:elevation="9dp"
+            android:id="@+id/floating_action_menu_ringtone_acitivty"
+            android:layout_alignBottom="@+id/floating_action_button_ringtone_activity"
+            android:layout_alignRight="@+id/floating_action_button_ringtone_activity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            fab:menu_fab_size="normal"
+            ads:menu_colorNormal="@color/white"
+            fab:menu_colorPressed="@color/light_white"
+            fab:menu_colorRipple="@color/light_white"
+            app:menu_shadowRadius="0dp"
+            fab:menu_animationDelayPerItem="50"
+            fab:menu_icon="@drawable/ic_set"
+            fab:menu_buttonSpacing="0dp"
+            fab:menu_labels_margin="0dp"
+            android:layout_marginRight="0dp"
+            android:layout_marginBottom="9dp"
+            fab:menu_labels_showAnimation="@anim/fab_slide_in_from_right"
+            fab:menu_labels_hideAnimation="@anim/fab_slide_out_to_right"
+            fab:menu_labels_paddingTop="4dp"
+            fab:menu_labels_paddingRight="15dp"
+            fab:menu_labels_paddingBottom="4dp"
+            fab:menu_labels_paddingLeft="8dp"
+            fab:menu_labels_padding="8dp"
+            fab:menu_labels_textColor="@color/black"
+            fab:menu_labels_textSize="10sp"
+            fab:menu_labels_cornerRadius="3dp"
+            fab:menu_labels_colorNormal="@color/white"
+            fab:menu_labels_colorPressed="@color/white"
+            fab:menu_labels_colorRipple="@color/white"
+            fab:menu_labels_showShadow="true"
+            fab:menu_labels_singleLine="false"
+            fab:menu_labels_ellipsize="none"
+            fab:menu_labels_maxLines="-1"
+            fab:menu_labels_position="left"
+            fab:menu_openDirection="up"
+            fab:menu_fab_label="@string/title_ringtone"
+            fab:menu_fab_show_animation="@anim/show_from_bottom"
+            fab:menu_fab_hide_animation="@anim/hide_to_bottom">
+            <com.github.clans.fab.FloatingActionButton
+                android:id="@+id/floating_action_button_download_ringtone_activity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                ads:fab_size="mini"
+                android:src="@drawable/ic_file_download_black_24dp"
+                ads:fab_colorNormal="@color/white"
+                fab:fab_colorPressed="@color/light_white"
+                fab:fab_colorRipple="@color/light_white"
+                fab:fab_label="@string/download" />
+            <com.github.clans.fab.FloatingActionButton
+                android:id="@+id/floating_action_button_alarm_ringtone_activity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                ads:fab_size="mini"
+                android:src="@drawable/ic_alarm_on_black_24dp"
+                ads:fab_colorNormal="@color/white"
+                fab:fab_colorPressed="@color/light_white"
+                fab:fab_colorRipple="@color/light_white"
+                fab:fab_label="@string/set_alarm" />
+            <com.github.clans.fab.FloatingActionButton
+                android:id="@+id/floating_action_button_contact_ringtone_activity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                ads:fab_size="mini"
+                android:src="@drawable/ic_person_black_24dp"
+                ads:fab_colorNormal="@color/white"
+                fab:fab_colorPressed="@color/light_white"
+                fab:fab_colorRipple="@color/light_white"
+                fab:fab_label="@string/set_contact_ringtone" />
+            <com.github.clans.fab.FloatingActionButton
+                ads:fab_size="mini"
+                android:id="@+id/floating_action_button_notification_ringtone_activity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                ads:fab_colorNormal="@color/white"
+                fab:fab_colorPressed="@color/light_white"
+                fab:fab_colorRipple="@color/light_white"
+                android:src="@drawable/ic_notifications_black_24dp"
+                fab:fab_label="@string/set_notification" />
+        </com.github.clans.fab.FloatingActionMenu>
+        <RelativeLayout
+            android:id="@+id/relative_layout_details_activity_ringtone"
+            android:visibility="gone"
+            android:elevation="11dp"
+            android:background="@color/black"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+            <RelativeLayout
+                android:orientation="horizontal"
+                android:background="@drawable/border_bottom"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:id="@+id/linearLayout2">
+                <ImageView
+                    android:id="@+id/image_view_close_details_ringtone_activity"
+                    style="?android:borderlessButtonStyle"
+                    android:background="?android:attr/selectableItemBackground"
+                    android:focusable="true"
+                    android:clickable="true"
+                    android:padding="15dp"
+                    android:tint="@color/light_white"
+                    app:srcCompat="@drawable/ic_clear_white_48dp"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp" />
+                <TextView
+                    android:layout_marginRight="60dp"
+                    android:layout_marginLeft="60dp"
+                    android:id="@+id/text_view_deatils_title_ringtone_activity"
+                    android:textSize="20dp"
+                    android:gravity="left|center_vertical"
+                    android:textColor="@color/light_white"
+                    android:text="Tone iPhone Details ..."
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp" />
+                <ImageView
+                    android:layout_alignParentRight="true"
+                    android:id="@+id/image_view_report_details_ringtone_activity"
+                    style="?android:borderlessButtonStyle"
+                    android:background="?android:attr/selectableItemBackground"
+                    android:focusable="true"
+                    android:clickable="true"
+                    android:padding="15dp"
+                    android:tint="@color/light_white"
+                    app:srcCompat="@drawable/ic_flag"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp" />
+            </RelativeLayout>
+            <ScrollView
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/linearLayout2">
+                <LinearLayout
+                    android:background="#32000000"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <android.support.v7.widget.CardView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="20dp"
+                        ads:cardBackgroundColor="@color/white"
+                        app:cardCornerRadius="10dp"
+                        app:cardElevation="1dp">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_margin="10dp"
+                                android:background="@drawable/border_bottom"
+                                android:gravity="center_horizontal"
+                                android:orientation="vertical">
+
+                                <RelativeLayout
+                                    android:layout_width="60dp"
+                                    android:layout_height="50dp">
+
+                                    <de.hdodenhof.circleimageview.CircleImageView
+                                        android:id="@+id/circle_image_view_activity_ringtone_user_details"
+                                        android:layout_width="60dp"
+                                        android:layout_height="60dp"
+                                        android:padding="3dp"
+                                        android:src="@drawable/profile" />
+
+                                    <ImageView
+                                        android:id="@+id/image_view_ringtone_activity_trusted_two"
+                                        android:layout_width="20dp"
+                                        android:layout_height="20dp"
+                                        android:layout_marginLeft="35dp"
+                                        android:layout_marginTop="35dp"
+                                        app:srcCompat="@drawable/ic_trusted" />
+                                </RelativeLayout>
+
+                                <TextView
+                                    android:id="@+id/text_view_activity_ringtone_user_name_details"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="center"
+                                    android:padding="10dp"
+                                    android:text="--"
+                                    android:textAlignment="center"
+                                    android:textColor="@color/light_white"
+                                    android:textSize="16dp"
+                                    android:textStyle="bold" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginRight="10dp"
+                                android:background="@drawable/border_bottom"
+                                android:orientation="horizontal"
+                                android:paddingBottom="5dp"
+                                android:weightSum="2">
+
+                                <LinearLayout
+                                    android:layout_width="0dp"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="10dp"
+                                    android:layout_marginRight="10dp"
+                                    android:layout_weight="1"
+                                    android:orientation="horizontal">
+
+                                    <ImageView
+                                        android:layout_width="30dp"
+                                        android:layout_height="30dp"
+                                        android:padding="5dp"
+                                        android:tint="@color/light_white"
+                                        app:srcCompat="@drawable/ic_folder" />
+
+                                    <TextView
+                                        android:id="@+id/text_view_details_size_ringtone_acitivty"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="30dp"
+                                        android:gravity="center|left"
+                                        android:text="--"
+                                        android:textColor="@color/light_white"
+                                        android:textStyle="bold" />
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:layout_width="0dp"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="10dp"
+                                    android:layout_marginRight="10dp"
+                                    android:layout_weight="1"
+                                    android:background="@drawable/border_left"
+                                    android:orientation="horizontal">
+
+                                    <ImageView
+                                        android:layout_width="30dp"
+                                        android:layout_height="30dp"
+                                        android:layout_marginLeft="5dp"
+                                        android:padding="5dp"
+                                        android:tint="@color/light_white"
+                                        app:srcCompat="@drawable/ic_extension" />
+
+                                    <TextView
+                                        android:id="@+id/text_view_details_extension_ringtone_acitivty"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="30dp"
+                                        android:gravity="center|left"
+                                        android:text="--"
+                                        android:textColor="@color/light_white"
+                                        android:textStyle="bold" />
+                                </LinearLayout>
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginRight="10dp"
+                                android:background="@drawable/border_bottom"
+                                android:orientation="horizontal"
+                                android:paddingBottom="5dp"
+                                android:weightSum="2">
+
+                                <LinearLayout
+                                    android:layout_width="0dp"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="10dp"
+                                    android:layout_marginRight="10dp"
+                                    android:layout_weight="1"
+                                    android:orientation="horizontal">
+
+                                    <ImageView
+                                        android:layout_width="30dp"
+                                        android:layout_height="30dp"
+                                        android:padding="5dp"
+                                        android:tint="@color/light_white"
+                                        app:srcCompat="@drawable/ic_file_download_black_24dp" />
+
+                                    <TextView
+                                        android:id="@+id/text_view_details_downloads_ringtone_acitivty"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="30dp"
+                                        android:gravity="center|left"
+                                        android:text="--"
+                                        android:textColor="@color/light_white"
+                                        android:textStyle="bold" />
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:layout_width="0dp"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="10dp"
+                                    android:layout_marginRight="10dp"
+                                    android:layout_weight="1"
+                                    android:background="@drawable/border_left"
+                                    android:orientation="horizontal">
+
+                                    <ImageView
+                                        android:layout_width="30dp"
+                                        android:layout_height="30dp"
+                                        android:layout_marginLeft="5dp"
+                                        android:padding="5dp"
+                                        android:tint="@color/light_white"
+                                        app:srcCompat="@drawable/ic_access_time" />
+
+                                    <TextView
+                                        android:id="@+id/text_view_details_time_ringtone_acitivty"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="30dp"
+                                        android:gravity="center|left"
+                                        android:text="--"
+                                        android:textColor="@color/light_white"
+                                        android:textStyle="bold" />
+                                </LinearLayout>
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:id="@+id/linear_layout_tags_details_ringtone_acitivty"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginRight="10dp"
+                                android:background="@drawable/border_bottom"
+                                android:orientation="horizontal">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="40dp"
+                                    android:layout_marginRight="10dp"
+                                    android:gravity="center"
+                                    android:text="@string/tags"
+                                    android:textColor="@color/light_white"
+                                    android:textStyle="bold" />
+
+                                <TextView
+                                    android:id="@+id/text_view_tags_details_ringtone_activity"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="40dp"
+                                    android:gravity="center|left"
+                                    android:text="--"
+                                    android:textColor="@color/white" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:id="@+id/linear_layout_description_details_ringtone_acitivty"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginRight="10dp"
+                                android:background="@drawable/border_bottom"
+                                android:orientation="horizontal">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="40dp"
+                                    android:layout_marginRight="10dp"
+                                    android:gravity="center"
+                                    android:text="@string/description"
+                                    android:textColor="@color/light_white"
+                                    android:textStyle="bold" />
+
+                                <TextView
+                                    android:id="@+id/text_view_description_details_ringtone_activity"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="40dp"
+                                    android:gravity="center|left"
+                                    android:text="--"
+                                    android:textColor="@color/white" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:id="@+id/linear_layout_categories_details_ringtone_acitvity"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginRight="10dp"
+                                android:orientation="vertical">
+
+                                <ProgressBar
+
+                                    android:id="@+id/progress_bar_item_ringtone_categories_ringtone_acitvity"
+                                    android:layout_width="40dp"
+                                    android:layout_height="40dp"
+                                    android:layout_gravity="center"
+                                    android:indeterminate="true"
+                                    android:indeterminateTint="@color/white"
+                                    android:indeterminateTintMode="src_in"
+                                    android:max="100"
+                                    android:padding="10px"
+                                    android:progress="1"
+                                    android:visibility="gone" />
+
+                                <LinearLayout
+                                    android:id="@+id/linear_layout_categories_details_data_ringtone_acitvity"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal">
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="40dp"
+                                        android:gravity="center"
+                                        android:text="@string/categories"
+                                        android:textColor="@color/light_white"
+                                        android:textStyle="bold" />
+
+                                    <android.support.v7.widget.RecyclerView
+                                        android:id="@+id/recycler_view_categories_details_ringtone_activity"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="40dp"
+                                        android:layout_marginLeft="10dp"></android.support.v7.widget.RecyclerView>
+                                </LinearLayout>
+                            </LinearLayout>
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+                    <android.support.v7.widget.CardView
+                        ads:cardBackgroundColor="@color/black_light"
+                        app:cardCornerRadius="10dp"
+                        app:cardElevation="10dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginBottom="10dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <LinearLayout
+                            android:id="@+id/rtLinear"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:visibility="gone"
+                            android:padding="20dp">
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:text="Rate this Wallpaper"
+                                android:textAlignment="center"
+                                android:textColor="@color/light_white"
+                                android:textSize="18dp"
+                                android:textStyle="bold" />
+
+                            <android.support.v7.widget.AppCompatRatingBar
+                                android:id="@+id/rating_bar_guide_main_ringtone_activity"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@+id/relative_layout_user"
+                                android:layout_centerHorizontal="true"
+                                android:layout_gravity="center"
+                                android:layout_marginTop="30dp"
+                                android:backgroundTint="@color/white_transparent_done"
+                                android:elevation="20dp"
+                                android:foregroundTint="@color/white_transparent_done"
+                                android:indeterminateTint="@color/white_transparent_done"
+                                android:progressBackgroundTint="@color/white_transparent"
+                                android:progressTint="@color/white_transparent_done"
+                                android:rating="0"
+                                android:secondaryProgressTint="@color/transparent"
+                                android:stepSize="1" />
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+                    <android.support.v7.widget.CardView
+                        ads:cardBackgroundColor="@color/black_light"
+                        app:cardCornerRadius="10dp"
+                        app:cardElevation="1dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginBottom="20dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <LinearLayout
+                            android:id="@+id/rtln"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:visibility="gone"
+                            android:paddingBottom="20dp"
+                            android:paddingTop="20dp">
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:text="Users rates"
+                                android:textAlignment="center"
+                                android:textColor="@color/light_white"
+                                android:textSize="18dp"
+                                android:textStyle="bold" />
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:orientation="horizontal">
+
+                                <TextView
+                                    android:id="@+id/text_view_rate_main_ringtone_activity"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginRight="10dp"
+                                    android:text="--"
+                                    android:textColor="@color/light_white"
+                                    android:textSize="45dp" />
+
+                                <android.support.v7.widget.AppCompatRatingBar
+                                    android:id="@+id/rating_bar_guide_value_ringtone_activity"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_below="@+id/relative_layout_user"
+                                    android:layout_centerHorizontal="true"
+                                    android:layout_gravity="center"
+                                    android:backgroundTint="@color/white_transparent_done"
+                                    android:elevation="20dp"
+                                    android:foregroundTint="@color/white_transparent_done"
+                                    android:indeterminateTint="@color/white_transparent_done"
+                                    android:isIndicator="true"
+                                    android:progressBackgroundTint="@color/white_transparent"
+                                    android:progressTint="@color/white_transparent_done"
+                                    android:rating="2.3"
+                                    android:secondaryProgressTint="@color/transparent" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="20dp"
+                                android:weightSum="4">
+
+
+                                <LinearLayout
+                                    android:layout_width="0dp"
+                                    android:layout_height="match_parent"
+                                    android:layout_gravity="right|center"
+                                    android:layout_weight="2"
+                                    android:gravity="right|center">
+
+                                    <RatingBar
+                                        android:id="@+id/rating_bar_guide_5_ringtone_activity"
+                                        style="?android:attr/ratingBarStyleSmall"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="20dp"
+                                        android:layout_gravity="center"
+                                        android:layout_marginRight="10dp"
+                                        android:numStars="5"
+                                        android:rating="5"
+                                        android:stepSize="1"
+                                        android:textAlignment="center" />
+
+                                    <TextView
+
+                                        android:id="@+id/text_view_rate_5_ringtone_activity"
+                                        android:layout_width="40dp"
+                                        android:layout_height="wrap_content"
+                                        android:gravity="center"
+                                        android:text="0"
+                                        android:textAlignment="center"
+                                        android:textColor="@color/light_white" />
+                                </LinearLayout>
+
+                                <ProgressBar
+                                    android:id="@+id/progress_bar_rate_5_ringtone_activity"
+                                    style="?android:attr/progressBarStyleHorizontal"
+                                    android:layout_width="0dp"
+                                    android:layout_height="10dp"
+                                    android:layout_gravity="center"
+                                    android:layout_weight="2"
+                                    android:paddingLeft="10dp"
+                                    android:paddingRight="10dp"
+                                    android:progress="20"
+                                    android:progressDrawable="@drawable/progress" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="20dp"
+                                android:weightSum="4">
+
+
+                                <LinearLayout
+                                    android:layout_width="0dp"
+                                    android:layout_height="match_parent"
+                                    android:layout_gravity="right|center"
+                                    android:layout_weight="2"
+                                    android:gravity="right|center">
+
+                                    <RatingBar
+                                        android:id="@+id/rating_bar_guide_4_ringtone_activity"
+
+                                        style="?android:attr/ratingBarStyleSmall"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="20dp"
+                                        android:layout_gravity="center"
+                                        android:layout_marginRight="10dp"
+                                        android:numStars="4"
+                                        android:rating="4"
+                                        android:stepSize="1"
+                                        android:textAlignment="center" />
+
+                                    <TextView
+                                        android:id="@+id/text_view_rate_4_ringtone_activity"
+                                        android:layout_width="40dp"
+                                        android:layout_height="wrap_content"
+                                        android:gravity="center"
+                                        android:text="0"
+                                        android:textAlignment="center"
+                                        android:textColor="@color/light_white" />
+                                </LinearLayout>
+
+                                <ProgressBar
+                                    android:id="@+id/progress_bar_rate_4_ringtone_activity"
+                                    style="?android:attr/progressBarStyleHorizontal"
+                                    android:layout_width="0dp"
+                                    android:layout_height="10dp"
+                                    android:layout_gravity="center"
+                                    android:layout_weight="2"
+                                    android:paddingLeft="10dp"
+                                    android:paddingRight="10dp"
+                                    android:progress="20"
+                                    android:progressDrawable="@drawable/progress" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="20dp"
+                                android:weightSum="4">
+
+
+                                <LinearLayout
+                                    android:layout_width="0dp"
+                                    android:layout_height="match_parent"
+                                    android:layout_gravity="right|center"
+                                    android:layout_weight="2"
+                                    android:gravity="right|center">
+
+                                    <RatingBar
+                                        android:id="@+id/rating_bar_guide_3_ringtone_activity"
+
+                                        style="?android:attr/ratingBarStyleSmall"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="20dp"
+                                        android:layout_gravity="center"
+                                        android:layout_marginRight="10dp"
+                                        android:numStars="3"
+                                        android:rating="3"
+                                        android:stepSize="1"
+                                        android:textAlignment="center" />
+
+                                    <TextView
+                                        android:id="@+id/text_view_rate_3_ringtone_activity"
+                                        android:layout_width="40dp"
+                                        android:layout_height="wrap_content"
+                                        android:gravity="center"
+                                        android:text="0"
+                                        android:textAlignment="center"
+                                        android:textColor="@color/light_white" />
+                                </LinearLayout>
+
+                                <ProgressBar
+                                    android:id="@+id/progress_bar_rate_3_ringtone_activity"
+                                    style="?android:attr/progressBarStyleHorizontal"
+                                    android:layout_width="0dp"
+                                    android:layout_height="10dp"
+                                    android:layout_gravity="center"
+                                    android:layout_weight="2"
+                                    android:paddingLeft="10dp"
+                                    android:paddingRight="10dp"
+                                    android:progress="20"
+                                    android:progressDrawable="@drawable/progress" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="20dp"
+                                android:weightSum="4">
+
+
+                                <LinearLayout
+                                    android:layout_width="0dp"
+                                    android:layout_height="match_parent"
+                                    android:layout_gravity="right|center"
+                                    android:layout_weight="2"
+                                    android:gravity="right|center">
+
+                                    <RatingBar
+                                        android:id="@+id/rating_bar_guide_2_ringtone_activity"
+
+                                        style="?android:attr/ratingBarStyleSmall"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="20dp"
+                                        android:layout_gravity="center"
+                                        android:layout_marginRight="10dp"
+                                        android:numStars="2"
+                                        android:rating="2"
+                                        android:stepSize="1"
+                                        android:textAlignment="center" />
+
+                                    <TextView
+                                        android:id="@+id/text_view_rate_2_ringtone_activity"
+                                        android:layout_width="40dp"
+                                        android:layout_height="wrap_content"
+                                        android:gravity="center"
+                                        android:text="0"
+                                        android:textAlignment="center"
+                                        android:textColor="@color/light_white" />
+                                </LinearLayout>
+
+                                <ProgressBar
+                                    android:id="@+id/progress_bar_rate_2_ringtone_activity"
+                                    style="?android:attr/progressBarStyleHorizontal"
+                                    android:layout_width="0dp"
+                                    android:layout_height="10dp"
+                                    android:layout_gravity="center"
+                                    android:layout_weight="2"
+                                    android:paddingLeft="10dp"
+                                    android:paddingRight="10dp"
+                                    android:progress="20"
+                                    android:progressDrawable="@drawable/progress" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="20dp"
+                                android:weightSum="4">
+
+
+                                <LinearLayout
+                                    android:layout_width="0dp"
+                                    android:layout_height="match_parent"
+                                    android:layout_gravity="right|center"
+                                    android:layout_weight="2"
+                                    android:gravity="right|center">
+
+                                    <RatingBar
+                                        android:id="@+id/rating_bar_guide_1_ringtone_activity"
+
+                                        style="?android:attr/ratingBarStyleSmall"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="20dp"
+                                        android:layout_gravity="center"
+                                        android:layout_marginRight="10dp"
+                                        android:numStars="1"
+                                        android:rating="1"
+                                        android:stepSize="1"
+                                        android:textAlignment="center" />
+
+                                    <TextView
+                                        android:id="@+id/text_view_rate_1_ringtone_activity"
+                                        android:layout_width="40dp"
+                                        android:layout_height="wrap_content"
+                                        android:gravity="center"
+                                        android:text="0"
+                                        android:textAlignment="center"
+                                        android:textColor="@color/light_white" />
+                                </LinearLayout>
+
+                                <ProgressBar
+                                    android:id="@+id/progress_bar_rate_1_ringtone_activity"
+                                    style="?android:attr/progressBarStyleHorizontal"
+                                    android:layout_width="0dp"
+                                    android:layout_height="10dp"
+                                    android:layout_gravity="center"
+                                    android:layout_weight="2"
+                                    android:paddingLeft="10dp"
+                                    android:paddingRight="10dp"
+                                    android:progress="20"
+                                    android:progressDrawable="@drawable/progress" />
+                            </LinearLayout>
+
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+                </LinearLayout>
+            </ScrollView>
+        </RelativeLayout>
+    </RelativeLayout>
+    <LinearLayout
+        android:visibility="visible"
+        android:orientation="vertical"
+        android:id="@+id/linear_layout_ads"
+        android:background="@color/black"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:visibility="gone"
+            android:id="@+id/adView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            ads:adSize="SMART_BANNER"
+            ads:adUnitId="@string/ad_unit_id_banner"
+            android:layout_alignParentBottom="true"
+            />
+    </LinearLayout>
+</RelativeLayout>

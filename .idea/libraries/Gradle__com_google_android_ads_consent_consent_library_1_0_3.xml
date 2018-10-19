@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.ads.consent:consent-library-1.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/7709911400e46faedb94b427e2caa59ee4bf9589/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/7709911400e46faedb94b427e2caa59ee4bf9589/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

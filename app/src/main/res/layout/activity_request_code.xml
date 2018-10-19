@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grei"
+    android:orientation="vertical"
+    tools:context=".ui.RequestCodeActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/ic_checked"
+        tools:layout_editor_absoluteX="112dp" />
+
+    <TextView
+        android:id="@+id/titl"
+        android:layout_width="214dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/no_verify"
+        android:layout_marginTop="20dp"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textStyle="bold"
+       />
+
+    <TextView
+        android:id="@+id/noprobl"
+        android:layout_width="287dp"
+        android:layout_height="36dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:layout_marginEnd="48dp"
+        android:layout_marginLeft="49dp"
+        android:layout_marginRight="48dp"
+        android:layout_marginStart="49dp"
+        android:layout_marginTop="19dp"
+        android:text="@string/request_info"
+        android:textAlignment="center"
+        android:textStyle="italic"
+        />
+
+    <EditText
+        android:id="@+id/input_code"
+        android:layout_width="275dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_marginEnd="54dp"
+        android:layout_marginLeft="55dp"
+        android:layout_marginRight="54dp"
+        android:layout_marginStart="55dp"
+        android:ems="10"
+        android:inputType="number"
+        android:text="@string/into_code"
+       />
+
+    <Button
+        android:id="@+id/verify_btn"
+        android:layout_width="180dp"
+        android:layout_height="50dp"
+        android:background="@color/white"
+        android:shadowColor="@color/black"
+        android:shadowRadius="10"
+        android:layout_marginTop="15dp"
+        android:layout_gravity="center"
+        android:text="@string/verify_user"
+        tools:layout_editor_absoluteX="92dp"
+        tools:layout_editor_absoluteY="364dp" />
+
+    <Button
+        android:id="@+id/get_code"
+        android:layout_width="180dp"
+        android:layout_height="50dp"
+        android:background="@color/white"
+        android:shadowColor="@color/black"
+        android:shadowRadius="10"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:text="@string/get_codenow"
+         />
+
+</LinearLayout>

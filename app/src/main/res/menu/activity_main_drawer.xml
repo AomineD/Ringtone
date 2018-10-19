@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_latest"
+            android:icon="@drawable/ic_home"
+            android:title="@string/title_home" />
+        <item
+            android:id="@+id/nav_upload"
+            android:icon="@drawable/ic_upload"
+            android:visible="false"
+            android:title="@string/title_upload" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="@string/action_settings" />
+
+
+    </group>
+
+    <item android:title="Application">
+        <menu>
+
+            <item
+                android:id="@+id/nav_rate"
+                android:icon="@drawable/ic_like"
+                android:title="@string/action_rate" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/share_this_app" />
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@drawable/ic_live_help"
+                android:title="@string/contact_us" />
+            <item
+                android:id="@+id/nav_policy"
+                android:icon="@drawable/ic_lock"
+                android:title="@string/policy_privacy" />
+            <item
+                android:id="@+id/nav_exit"
+                android:icon="@drawable/ic_exit_to_app"
+                android:title="@string/exitb" />
+        </menu>
+    </item>
+
+</menu>

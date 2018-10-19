@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relative_layout_slide"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_slide_1"
+    tools:context=".ui.IntroActivity">
+    <com.colvengames.downloadmp3.ui.view.ClickableViewPager
+        android:gravity="center"
+        android:layout_marginBottom="30dp"
+        android:paddingBottom="0dp"
+        android:paddingLeft="20dp"
+        android:paddingTop="10dp"
+        android:paddingRight="20dp"
+        android:id="@+id/view_pager_slide"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </com.colvengames.downloadmp3.ui.view.ClickableViewPager>
+    <com.github.vivchar.viewpagerindicator.ViewPagerIndicator
+        android:id = "@+id/view_pager_indicator"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:padding="5dp"
+        app:delimiterSize = "6dp"
+        app:itemSize="8dp"
+        />
+    <LinearLayout
+        android:id="@+id/linear_layout_skip"
+
+        android:background="?android:attr/selectableItemBackground"
+        android:clickable="true"
+        android:focusable="true"
+        android:orientation="horizontal"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp" >
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textSize="18dp"
+            android:textColor="@color/white"
+            android:text="SKIP"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp" />
+        <ImageView
+
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:padding="5dp"
+            android:tint="@color/white"
+            app:srcCompat="@drawable/ic_navigate_next" />
+    </LinearLayout>
+
+</RelativeLayout>

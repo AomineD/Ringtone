@@ -1,0 +1,170 @@
+<resources>
+    <string name="app_name">Música sin copyright</string>
+    <string name="panel_url">Música.ristana.com</string>
+    <string name="policy_privacy_url">http://besosdeamor.info/admin_panel_radio_full/privacy_policy.php</string>
+
+    <string name="share_url">Descarga las mejores Músicas sin copyright en esta app fantástica! </string>
+
+
+    <string name="Categoryname">Iphone</string>
+
+    <string name="publisher_id">pub-1109036029326542</string>
+
+    <string name="facebook_app_id">565450217247077</string>
+    <string name="fb_login_protocol_scheme">fb1030157120466186</string>
+
+    <string name="ad_unit_id_banner">ca-app-pub-1109036029326542/6435060698</string>
+    <string name="ad_unit_id_interstitial">ca-app-pub-1109036029326542/6051917312</string>
+    <string name="AD_MOB_TIME">15</string>
+    <!-- enable / disbale banner -->
+    <string name="AD_MOB_ENABLED_BANNER">true</string>
+    <!-- enable / disbale interstitial -->
+    <string name="AD_MOB_ENABLED_INTERSTITAL">true</string>
+
+
+    <!-- FACEBOOK ADS -->
+    <string name="FACEBOOK_ADS_NATIVE_BANNER_PLACEMENT_ID">2371715799520164_2371717422853335</string>
+    <string name="FACEBOOK_ADS_NATIVE_PLACEMENT_ID">2371715799520164_2371716306186780</string>
+    <!-- enable / disbale NATIVE BANNER -->
+
+    <string name="FACEBOOK_ADS_ENABLED_BANNER">true</string>
+    <!-- enable / disbale NATIVE ADS BETWEEN ITEM -->
+    <string name="FACEBOOK_ADS_ENABLED_NATIVE">true</string>
+    <!-- NUMBER OF RINTONES BETWEEN ADS -->
+    <string name="FACEBOOK_ADS_ITEM_BETWWEN_ADS">4</string>
+
+
+    <string name="DownloadFolder">/Download/Música/</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Opciones</string>
+    <string name="text_favorites">Favoritos</string>
+    <string name="text_schedules">Programaciones</string>
+    <string name="text_music">Música</string>
+    <string name="title_activity_nav">NavActivity</string>
+    <string name="title_home">Principal</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notificaciones</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_server">Lo sentimos algo salió mal</string>
+    <string name="try_again">Intentar de nuevo</string>
+
+    <string name="download">Descargar</string>
+    <string name="set">Seleccionar</string>
+    <string name="favorite">Favorito</string>
+    <string name="comments">Comentarios</string>
+    <string name="write_comment">Escribir un comentario</string>
+    <string name="operation_progress">Operación en progreso</string>
+    <string name="comment_hidden">Este comentario ha sido ocultado</string>
+    <string name="retry">REINTENTAR</string>
+    <string name="no_connexion">Problema de conexión</string>
+    <string name="now_time">Ahora</string>
+    <string name="ringtone_set_success">La Música ha sido seleccionada con éxito</string>
+    <string name="ringtone_notification_success">La Música ha sido seleccionada con éxito como notificación</string>
+    <string name="ringtone_alarm_success">La Música ha sido seleccionada con éxito como alarma</string>
+    <string name="ringtone_contact_success">La Música ha sido seleccionada con éxito para este contacto</string>
+    <string name="ringtone_download_success">La Música ha sido descargada con éxito</string>
+    <string name="ringtone_download_error">Descarga fállida -  error de conexión</string>
+    <string name="progress_login">Cargando...</string>
+    <string name="message_sended">Mensaje enviado con éxito</string>
+    <string name="title_notification">Activar notificación push</string>
+    <string name="label_notification">Recibir notificación push</string>
+    <string name="clear_cache">Limpiar Cache</string>
+    <string name="label_cache">Limpiar imagenes almacenadas en caché. Actualmente : </string>
+    <string name="update_now">Actualizar ahora!</string>
+    <string name="contact_us">Contactanos!</string>
+    <string name="policy_privacy">Política de Privacidad</string>
+    <string name="version_label">Versión actual</string>
+    <string name="hint_message">Tu mensaje</string>
+    <string name="send_support">Enviar mensaje</string>
+    <string name="image_upload_error">Por favor selecciona una Música</string>
+    <string name="color_tags_upload_error">Por favor selecciona un tag</string>
+    <string name="upload_ringtone">Subir Música</string>
+    <string name="ringtone_upload_success">Tu Música ha sido subida con éxito</string>
+    <string name="edit_text_upload_title_error">Titulo muy corto , por favor corrigelo</string>
+    <string name="welcome_login_text">Inicia sesión para comentar , calificar...</string>
+    <string name="account_disabled">Lo sentimos su cuenta esta bloqueada</string>
+    <string name="login_gg_text">Inicia con Google</string>
+    <string name="message_logout">Saliste de sesión con éxito</string>
+
+    <string name="hint_email">E-mail</string>
+    <string name="hint_name">Nombre completo</string>
+    <string name="error_mail_valide">Por favor escribe un E-mail válido</string>
+    <string name="error_short_value">Tu campo es muy corto</string>
+    <string name="exit">Salir</string>
+    <string name="please_login">Por favor inicia sesion!</string>
+    <string name="action_rate">Calificar App!</string>
+    <string name="loading">Cargando</string>
+    <string name="description_subsribte">Con nuestro pack. Puedes disfrutar sin un solo anuncio y centrarte en lo escencial!</string>
+    <string name="title_upload">Los Tuyos</string>
+    <string name="set_alarm">SELECCIONAR ALARMA</string>
+    <string name="set_notification">SELECCIONAR NOTIFICACION</string>
+    <string name="set_contact_ringtone">SELECCIONAR MÚSICA PARA CONTACTO</string>
+    <string name="title_ringtone">SELECCIONAR MÚSICA</string>
+    <string name="categories">Categorias : </string>
+    <string name="tags">Tags : </string>
+    <string name="description">Descripción :</string>
+    <string name="categories_list">Lista de Categorías</string>
+    <string name="popular_searches">Búsquedas populares</string>
+    <string name="download_ringtone_from">Descargar desde :</string>
+    <string name="title_slide_1">Bienvenido a Música sin Copyright!</string>
+    <string name="description_slide_1">Gracias por descargar Música sin copyright esperamos que la disfrutes</string>
+    <string name="title_slide_2">Nosotros usamos tags</string>
+    <string name="description_slide_2">Selecciona tus temas favoritos para encontrar las mejores Músicas</string>
+    <string name="title_slide_3">Sé un autor</string>
+    <string name="description_slide_3">Inicia sesión y se uno de nuestra comunidad, y comparte tus mejores Músicas con los demás!</string>
+    <string name="title_slide_4">Descarga las Músicas!</string>
+
+    <string name="description_slide_4">Descarga Músicas y guardalas en tu celular , compartelas y escuchalas cuando quieras</string>
+    <string name="title_slide_5">Favoritos</string>
+    <string name="description_slide_5">Añade tus Músicas favoritas a la lista</string>
+    <string name="title_slide_6">Califica las Músicas</string>
+    <string name="description_slide_6">Navega entre las mejores Músicas y deja tu calificacion</string>
+    <string name="title_slide_7">Facil de Compartir</string>
+    <string name="description_slide_7">Descarga y comparte cualquier Música de la aplicación a cualquier red social</string>
+    <string name="title_slide_8">Remueve los anuncios</string>
+    <string name="description_slide_8">Vuelve tu cuenta a PRO para disfrutar de la app sin anuncios , con un precio bajo!</string>
+    <string name="report_ringtone">Reporta esta Música</string>
+    <string name="skip">Saltar</string>
+    <string name="rate_our_app">Califica nuestra App</string>
+    <string name="rate_our_app_message">Si te gusta nuestra app, tomate un momento para calificarla.</string>
+    <string name="rate_now">Calificar ahora!</string>
+    <string name="later">Luego</string>
+    <string name="no_again">No preguntar de nuevo</string>
+    <string name="cancel">Cancelar</string>
+    <string name="choose_your_ringtone">Elige tu Música</string>
+    <string name="dialog_text_no_ads_title">Desactivar anuncios</string>
+    <string name="dialog_text_no_premium_wallpapers_title">Contenido Premium</string>
+    <string name="dialog_text_no_premium_wallpapers_description">Obten millones de Músicas</string>
+    <string name="dialog_text_no_ads_description">Usa la app con mayor libertad</string>
+
+    <array name="colors_load">
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/colorPrimaryDark</item>
+    </array>
+
+    <string name="send_info">Enviar tono a</string>
+    <string name="share_this_app">Compartir esta app</string>
+    <string name="exitb">Salir</string>
+    <string name="we_need_your_permission">Necesitamos tu permiso</string>
+    <string name="please_allow_permission_to_continue_use_the_application_perfectly">Por favor permite los permisos para que la aplicación funcione correctamente</string>
+    <string name="allow_permission">DAR PERMISOS</string>
+    <string name="lastest">Destacado</string>
+    <string name="categories_title">Categorías</string>
+    <string name="favorites_title">Favoritas</string>
+
+
+    <string name="lastest_home">Destacado</string>
+    <string name="categories_home">Categorías</string>
+    <string name="favorites_home">Favoritas</string>
+    <string name="name_admin">ADMIN</string>
+    <string name="request_info">Antes de poder usar nuestra app tienes que validarte</string>
+    <string name="no_verify">No estás verificado</string>
+    <string name="into_code">Introduce el código</string>
+    <string name="verify_user">Validar mi usuario</string>
+    <string name="get_codenow">Solicitar código</string>
+    <string name="cargando">Cargando</string>
+</resources>

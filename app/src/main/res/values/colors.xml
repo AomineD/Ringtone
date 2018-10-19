@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#161616</color>
+    <color name="colorPrimaryDarkMenu">#000</color>
+    <color name="colorAccent">#80d8ff</color>
+    <color name="white">#ffffff</color>
+    <color name="light_white">#000000</color>
+    <color name="black">#000</color>
+    <color name="primary_text">#212121</color>
+    <color name="gray_color">#ccc</color>
+    <color name="grei">#f1f1f1</color>
+    <color name="primary_text_light">#868686</color>
+    <color name="transparent">#00000000</color>
+    <color name="white_transparent">#3affffff</color>
+    <color name="white_transparent_done">#beffffff</color>
+    <color name="black_light">#333</color>
+
+
+    <color name="c1">#1de9b6</color>
+    <color name="c2">#ff80ab</color>
+    <color name="c3">#ea80fc</color>
+    <color name="c4">#b388ff</color>
+    <color name="c5">#8c9eff</color>
+    <color name="c6">#82b1ff</color>
+    <color name="c7">#80d8ff</color>
+    <color name="c8">#84ffff</color>
+    <color name="c9">#a7ffeb</color>
+    <color name="c10">#b9f6ca</color>
+    <color name="c11">#19c9bb</color>
+    <color name="c12">#f4ff81</color>
+    <color name="c13">#ffff8d</color>
+    <color name="c14">#ffe57f</color>
+    <color name="c15">#ffd180</color>
+    <color name="c16">#ff9e80</color>
+    <color name="vino">#830606</color>
+
+</resources>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layoutDirection="ltr"
+    >
+    <ProgressBar
+        android:padding="3dp"
+        android:progressDrawable="@drawable/bg_progress_item_1"
+        android:progress="0"
+        android:max="1000"
+        android:id="@+id/progress_bar_item_ringtone_background"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="100dp" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+        <TextView
+            android:id="@+id/text_view_item_ringtone_premium"
+            android:textSize="10dp"
+            android:layout_marginBottom="5dp"
+            android:layout_alignParentBottom="true"
+            android:textColor="@color/white"
+            android:background="#d99815"
+            android:text="Premium"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <RelativeLayout
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="22dp"
+            android:layout_marginBottom="22dp"
+            android:background="@drawable/border_circle"
+            android:layout_width="55dp"
+            android:layout_height="55dp">
+            <ProgressBar
+                android:id="@+id/progress_bar_item_ringtone_play"
+                android:visibility="visible"
+                android:max="100"
+                android:progress="1"
+                android:layout_width="55dp"
+                android:layout_height="55dp"
+                android:indeterminate="true"
+                android:indeterminateTintMode="src_in"
+                android:indeterminateTint="@color/white"
+                />
+            <ImageView
+                android:id="@+id/image_view_item_ringtone_play"
+                android:padding="5dp"
+                android:tint="@color/white"
+                app:srcCompat="@drawable/ic_play"
+                android:layout_width="55dp"
+                android:layout_height="55dp" />
+            <ImageView
+                android:id="@+id/image_view_item_ringtone_pause"
+                android:visibility="gone"
+                android:padding="5dp"
+                android:tint="@color/white"
+                app:srcCompat="@drawable/ic_pause"
+                android:layout_width="55dp"
+                android:layout_height="55dp" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="243dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="80dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/text_view_item_ringtone_title"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:text="-"
+                android:textColor="@color/white"
+                android:textSize="8pt"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/text_view_item_ringtone_duration"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="--:--"
+                android:textColor="@color/white" />
+        </LinearLayout>
+        <LinearLayout
+            android:gravity="center"
+            android:layout_margin="10dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp">
+            <ImageView
+                android:tint="@color/white"
+                app:srcCompat="@drawable/ic_file_download_black_24dp"
+                android:layout_width="10dp"
+                android:layout_height="10dp" />
+            <TextView
+                android:id="@+id/text_view_item_ringtone_downloads"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:gravity="center"
+                android:textSize="10dp"
+                android:textColor="@color/white"
+                android:text="123 K"
+                android:layout_width="wrap_content"
+                android:layout_height="20dp" />
+        </LinearLayout>
+        <com.like.LikeButton
+
+            android:layout_marginTop="10dp"
+            android:layout_alignParentRight="true"
+            app:icon_type="heart"
+            app:icon_size="25dp"
+            android:id="@+id/like_button_fav_item_ringtone"
+            app:unlike_drawable="@drawable/ic_favorite"
+            app:like_drawable="@drawable/ic_favorite_done"
+            android:layout_width="60dp"
+            android:layout_height="80dp"/>
+        <LinearLayout
+            android:gravity="center"
+            android:layout_marginRight="5dp"
+            android:layout_marginBottom="8dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp">
+            <TextView
+                android:id="@+id/text_view_item_ringtone_author"
+                android:textAlignment="center"
+                android:gravity="center"
+                android:textSize="10dp"
+                android:textColor="@color/white"
+                android:text="By Ristana Inc"
+                android:layout_width="wrap_content"
+                android:layout_height="20dp" />
+            <Button
+                android:layout_width="50dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="5dp"
+                android:background="@drawable/sharebtn"
+                android:layout_gravity="center"
+                android:id="@+id/sharebtn"
+                />
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>
